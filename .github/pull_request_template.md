@@ -13,3 +13,9 @@ TODO : Mention reviewer's name
 
 ## Other Remarks
 OPTIONAL : Any additional info.
+
+
+## Checklist
+
+- [x] Scrolled Newsfeed
+- [x] Visited Profile
